@@ -9,7 +9,7 @@ I'm Data Enthusiast✨
 ## ⚙ Latest Projects
 | Projects | Description |
 | ----------- | ----------- |
-| [Analisis Kinerja YOLO (You Only Look Once) untuk Deteksi Objek pada Penyakit Tanaman Kentang](https://) | Deep learning. |
+| [Analisis Kinerja YOLO (You Only Look Once) untuk Deteksi Objek pada Penyakit Tanaman Kentang](https://github.com/deviluthfitaningrum1/skripsi) | Deep learning, Image Processing, Object Detection |
 
 
 

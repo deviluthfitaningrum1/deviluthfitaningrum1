@@ -17,7 +17,7 @@ I'm Data Enthusiast✨
 <p>
   <a href="https://www.linkedin.com/in/devi-luthfitaningrum-555338195/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKED%20IN-8A2BE2" /></a>  
   <a href="mailto:luthfitaningrum@gmail.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/EMAIL-8A2BE2" /></a>
-  <a href="[https://www.instagram.com/rfajri255/](https://instagram.com/devi_luthf24)" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/INSTAGRAM-8A2BE2" /></a>  
+  <a href="https://instagram.com/devi_luthf24" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/INSTAGRAM-8A2BE2" /></a>  
 </p>
 
 <br />

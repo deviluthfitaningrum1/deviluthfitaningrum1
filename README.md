@@ -9,7 +9,7 @@ I'm Data Enthusiast✨
 ## ⚙ Latest Projects
 | Projects | Description |
 | ----------- | ----------- |
-| [Build a Machine Learning Pipeline](https://github.com/rfajri27/ml-pipeline-for-bbc-dataset) | Machine learning pipeline built with TensorFlow Extended (TFX) and Apache Beam as a pipeline orchestrator in order to handle BBC dataset. |
+| [Analisis Kinerja YOLO (You Only Look Once) untuk Deteksi Objek pada Penyakit Tanaman Kentang](https://) | Deep learning. |
 
 
 
